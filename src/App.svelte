@@ -4,7 +4,7 @@
   let parallax;
   let disabled = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-  const icon = () => "src//assets/icon.gif";
+  const icon = () => "src/assets/icon.gif";
 </script>
 
 <Parallax
